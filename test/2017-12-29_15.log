@@ -1,0 +1,410 @@
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:5&37091b6b&0
+Service:öu	N
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB20
+USBSecondFloorKey:5&218e8397&0
+Service:usbhub
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:öu“´?
+LocationInformation:Port_#0001.Hub_#0002
+DeviceDesc:öu*
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0002
+USBSecondFloorKey:6&2d9cdb8d&0&2
+Service:öu	N
+CompatibleIDs:ÕÀ7?
+LocationInformation:˚ã7??öm ?–L≥¢®≥
+DeviceDesc:·P7°È?öu?
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003
+USBSecondFloorKey:6&2d9cdb8d&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:öuX
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_00
+USBSecondFloorKey:7&2f9d147f&0&0000
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:?7??öm ??ÊŸ®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_01
+USBSecondFloorKey:7&2f9d147f&0&0001
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:öuN
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0008
+USBSecondFloorKey:000650268328
+Service:Íc7Íô7ˆ
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0001.Hub_#0003
+DeviceDesc:Generic Bluetooth Adapter
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:5&37091b6b&0
+Service:?k?ls.
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:öu
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB20
+USBSecondFloorKey:5&218e8397&0
+Service:#{??óE
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:?k?l?l?l?l?l¢¡l°Èk?k?l?l??öu*
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:{8ECC055
+CompatibleIDs:{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0001
+LocationInformation:?°Í?°Í?|?|?|?°Ë?£§??@
+DeviceDesc:?n?nem??öm ?Ôs≥¢®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0002
+USBSecondFloorKey:6&2d9cdb8d&0&2
+Service:???????
+CompatibleIDs:öu
+l
+LocationInformation:öu
+4
+DeviceDesc:öu
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003
+USBSecondFloorKey:6&2d9cdb8d&0&1
+Service:óE dlú∫
+CompatibleIDs:??????°È?öu
+LocationInformation:öu
+DeviceDesc:óE?lú∫ôü??öm äÌôè≥¢®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_00
+USBSecondFloorKey:7&2f9d147f&0&0000
+Service:óEÈïlú
+CompatibleIDs:File System
+LocationInformation:PNP_TDI
+DeviceDesc:Ë€l??óE
+?lúºôü?l¿£ôüçYlúΩôü?lΩ¶ôüåKl‰
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_01
+USBSecondFloorKey:7&2f9d147f&0&0001
+Service:?l?
+CompatibleIDs:óE˚ªlú∫ôü??öm ?ö†≥¢®≥
+LocationInformation:öu
+DeviceDesc:atapi
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0008
+USBSecondFloorKey:000650268328
+Service:öu
+CompatibleIDs:óE?mú∫ôü??öm ?òı≥¢®≥
+LocationInformation:öu“´
+DeviceDesc:öu
+l
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Kingston DT 101 G2 USB Device
+FriendlyName:öu
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-29 15:00:01] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:öm ??
+CompatibleIDs:√}m◊Rm∞ûmÌœm¥ämÛÍm¬ém√Im?£
+DeviceDesc:öu
+“´
+FriendlyName:öm êÅò˚≥¢®≥
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:5&37091b6b&0
+Service:öu	N
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB20
+USBSecondFloorKey:5&218e8397&0
+Service:usbhub
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:öu“´?
+LocationInformation:Port_#0001.Hub_#0002
+DeviceDesc:öu*
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0002
+USBSecondFloorKey:6&2d9cdb8d&0&2
+Service:öu	N
+CompatibleIDs:ÕÀ7?
+LocationInformation:˚ã7??öm ?–L≥¢®≥
+DeviceDesc:·P7°È?öu?
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003
+USBSecondFloorKey:6&2d9cdb8d&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:öuX
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_00
+USBSecondFloorKey:7&2f9d147f&0&0000
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:?7??öm ??ÊŸ®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_01
+USBSecondFloorKey:7&2f9d147f&0&0001
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:öuN
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:14:50] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0008
+USBSecondFloorKey:000650268328
+Service:Íc7Íô7ˆ
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0001.Hub_#0003
+DeviceDesc:Generic Bluetooth Adapter
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:5&37091b6b&0
+Service:öu	N
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB20
+USBSecondFloorKey:5&218e8397&0
+Service:usbhub
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:öu“´?
+LocationInformation:Port_#0001.Hub_#0002
+DeviceDesc:öu*
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0002
+USBSecondFloorKey:6&2d9cdb8d&0&2
+Service:öu	N
+CompatibleIDs:ÕÀ7?
+LocationInformation:˚ã7??öm ?–L≥¢®≥
+DeviceDesc:·P7°È?öu?
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003
+USBSecondFloorKey:6&2d9cdb8d&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:öuX
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_00
+USBSecondFloorKey:7&2f9d147f&0&0000
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:?7??öm ??ÊŸ®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_01
+USBSecondFloorKey:7&2f9d147f&0&0001
+Service:öu	N
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0002.0000.0000.001.000.000.000.000.000
+DeviceDesc:öuN
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:05] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0008
+USBSecondFloorKey:000650268328
+Service:Íc7Íô7ˆ
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0001.Hub_#0003
+DeviceDesc:Generic Bluetooth Adapter
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:5&37091b6b&0
+Service:?k?ls.
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:öu
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB20
+USBSecondFloorKey:5&218e8397&0
+Service:#{??óE
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:?k?l?l?l?l?l¢¡l°Èk?k?l?l??öu*
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:{8ECC055
+CompatibleIDs:{745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0001
+LocationInformation:?°Í?°Í?|?|?|?°Ë?£§??@
+DeviceDesc:?n?nem??öm ?Ôs≥¢®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0002
+USBSecondFloorKey:6&2d9cdb8d&0&2
+Service:???????
+CompatibleIDs:öu
+l
+LocationInformation:öu
+4
+DeviceDesc:öu
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003
+USBSecondFloorKey:6&2d9cdb8d&0&1
+Service:óE dlú∫
+CompatibleIDs:??????°È?öu
+LocationInformation:öu
+DeviceDesc:óE?lú∫ôü??öm äÌôè≥¢®≥
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_00
+USBSecondFloorKey:7&2f9d147f&0&0000
+Service:óEÈïlú
+CompatibleIDs:File System
+LocationInformation:PNP_TDI
+DeviceDesc:Ë€l??óE
+?lúºôü?l¿£ôüçYlúΩôü?lΩ¶ôüåKl‰
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0003&MI_01
+USBSecondFloorKey:7&2f9d147f&0&0001
+Service:?l?
+CompatibleIDs:óE˚ªlú∫ôü??öm ?ö†≥¢®≥
+LocationInformation:öu
+DeviceDesc:atapi
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:11] : [–≈œ¢] 
+USBFirstFloorKey:VID_0E0F&PID_0008
+USBSecondFloorKey:000650268328
+Service:öu
+CompatibleIDs:óE?mú∫ôü??öm ?òı≥¢®≥
+LocationInformation:öu“´
+DeviceDesc:öu
+l
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:16:19] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Kingston DT 101 G2 USB Device
+FriendlyName:öu
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-29 15:56:53] : [–≈œ¢] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 15:58:20] : [–≈œ¢] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+

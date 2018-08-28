@@ -1,0 +1,450 @@
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:歶
+?
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_0424&PID_2512
+USBSecondFloorKey:5&21d024a&0&9
+Service:USBHUB3
+CompatibleIDs:USB\USB20_HUB
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534
+USBSecondFloorKey:5&21d024a&0&9
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_00
+USBSecondFloorKey:6&21a2a79e&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:歶耀?
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_01
+USBSecondFloorKey:6&21a2a79e&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:0000.0014.0000.009.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_05AC&PID_12A8
+USBSecondFloorKey:d1ce053cf1e93d02db66f8d50ddd14d25a7eb4e0
+Service:WUDFWpdMtp
+CompatibleIDs:USB\Class_06&SubClass_01&Prot_01
+LocationInformation:Port_#0003.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_090C&PID_1000
+USBSecondFloorKey:0404160000000010
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0002.Hub_#0002
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_096E&PID_0209
+USBSecondFloorKey:6&3b4be304&0&1
+Service:歶X
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0002
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E
+USBSecondFloorKey:4YU4C16422013429
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0003.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_00
+USBSecondFloorKey:6&2ec610c3&0&0000
+Service:WUDFWpdMtp
+CompatibleIDs:USB\MS_COMP_MTP
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_01
+USBSecondFloorKey:6&2ec610c3&0&0001
+Service:USBSTOR
+CompatibleIDs:蓰{扨湩耀{?
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_02
+USBSecondFloorKey:6&2ec610c3&0&0002
+Service:WINUSB
+CompatibleIDs:USB\Class_ff&SubClass_42&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_03
+USBSecondFloorKey:6&2ec610c3&0&0003
+Service:
+CompatibleIDs:USB\Class_ff&SubClass_48&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_6019
+USBSecondFloorKey:5&21d024a&0&2
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:Port_#0006.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D
+USBSecondFloorKey:5&21d024a&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_00
+USBSecondFloorKey:6&6d9d2f5&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_01
+USBSecondFloorKey:6&6d9d2f5&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_1F75&PID_0902
+USBSecondFloorKey:000000000000000108
+Service:USBSTOR
+CompatibleIDs:堀|扨湩倀|?
+LocationInformation:Port_#0019.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBFirstFloorKey:VID_8087&PID_0A2A
+USBSecondFloorKey:5&21d024a&0&10
+Service:BTHUSB
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0010.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+FriendlyName:General USB Flash Disk USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+FriendlyName:Linux File-CD Gadget USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&1
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:General USB Flash Disk USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Innostor&Prod_Innostor&Rev_1.00
+USBSTORSecondFloorKey:000000000000000108&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Innostor Innostor USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Kingston DT 101 G2 USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:48:39] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Linux File-CD Gadget USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:歶
+?
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_0424&PID_2512
+USBSecondFloorKey:5&21d024a&0&9
+Service:USBHUB3
+CompatibleIDs:USB\USB20_HUB
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534
+USBSecondFloorKey:5&21d024a&0&9
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_00
+USBSecondFloorKey:6&21a2a79e&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:歶耀?
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_01
+USBSecondFloorKey:6&21a2a79e&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:0000.0014.0000.009.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_05AC&PID_12A8
+USBSecondFloorKey:d1ce053cf1e93d02db66f8d50ddd14d25a7eb4e0
+Service:WUDFWpdMtp
+CompatibleIDs:USB\Class_06&SubClass_01&Prot_01
+LocationInformation:Port_#0003.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_090C&PID_1000
+USBSecondFloorKey:0404160000000010
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0002.Hub_#0002
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0009.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_096E&PID_0209
+USBSecondFloorKey:6&3b4be304&0&1
+Service:歶X
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0002
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E
+USBSecondFloorKey:4YU4C16422013429
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0003.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_00
+USBSecondFloorKey:6&2ec610c3&0&0000
+Service:WUDFWpdMtp
+CompatibleIDs:USB\MS_COMP_MTP
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_01
+USBSecondFloorKey:6&2ec610c3&0&0001
+Service:USBSTOR
+CompatibleIDs:蓰{扨湩耀{?
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_02
+USBSecondFloorKey:6&2ec610c3&0&0002
+Service:WINUSB
+CompatibleIDs:USB\Class_ff&SubClass_42&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_03
+USBSecondFloorKey:6&2ec610c3&0&0003
+Service:
+CompatibleIDs:USB\Class_ff&SubClass_48&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_6019
+USBSecondFloorKey:5&21d024a&0&2
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:Port_#0006.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D
+USBSecondFloorKey:5&21d024a&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_00
+USBSecondFloorKey:6&6d9d2f5&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_01
+USBSecondFloorKey:6&6d9d2f5&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_1F75&PID_0902
+USBSecondFloorKey:000000000000000108
+Service:USBSTOR
+CompatibleIDs:堀|扨湩倀|?
+LocationInformation:Port_#0019.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBFirstFloorKey:VID_8087&PID_0A2A
+USBSecondFloorKey:5&21d024a&0&10
+Service:BTHUSB
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0010.Hub_#0001
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+FriendlyName:General USB Flash Disk USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+FriendlyName:Linux File-CD Gadget USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&1
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:General USB Flash Disk USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Innostor&Prod_Innostor&Rev_1.00
+USBSTORSecondFloorKey:000000000000000108&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Innostor Innostor USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Kingston DT 101 G2 USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:49:58] : [信息] 
+USBSTORFirstFloorKey:Disk&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+FriendlyName:Linux File-CD Gadget USB Device
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 10:56:39] : [信息] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 10:58:18] : [信息] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+

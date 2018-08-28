@@ -1,0 +1,114 @@
+[2018-01-07 17:27:43] : [信息] 一共206506556
+扇区
+[2018-01-07 17:29:04] : [信息] 此扇区是6738248
+[2018-01-07 17:31:42] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:31:52] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:32:11] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:33:28] : [信息] 一共206506556
+扇区
+[2018-01-07 17:34:47] : [信息] 此扇区是6738248
+[2018-01-07 17:35:16] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:35:23] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:35:30] : [错误] strVidAndPid
+[2018-01-07 17:35:30] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:41:49] : [信息] 一共206506556
+扇区
+[2018-01-07 17:43:16] : [信息] 此扇区是6738248
+[2018-01-07 17:43:56] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:44:07] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:45:47] : [信息] 一共206506556
+扇区
+[2018-01-07 17:47:17] : [信息] 此扇区是6738248
+[2018-01-07 17:47:38] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:47:42] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:48:03] : [错误] strVidAndPid
+[2018-01-07 17:48:03] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:49:35] : [信息] 一共206506556
+扇区
+[2018-01-07 17:51:00] : [信息] 此扇区是6738248
+[2018-01-07 17:51:28] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:51:34] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:52:00] : [错误] strVidAndPid
+[2018-01-07 17:52:00] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:52:52] : [信息] 一共206506556
+扇区
+[2018-01-07 17:54:15] : [信息] 此扇区是6738248
+[2018-01-07 17:54:20] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:20] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] ParseUsbRecord 调用strVidAndPid获取vid和pid失败
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] ParseUsbRecord 调用strVidAndPid获取vid和pid失败
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [错误] strVidAndPid
+[2018-01-07 17:54:20] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:20] : [信息] 此扇区是6738464
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:22] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:23] : [信息] 此扇区是6738560
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:24] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:27] : [信息] 此扇区是6752224
+[2018-01-07 17:54:27] : [信息] 此扇区是6754552
+[2018-01-07 17:54:28] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:28] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] ParseUsbRecord 调用strVidAndPid获取vid和pid失败
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] ParseUsbRecord 调用strVidAndPid获取vid和pid失败
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [错误] strVidAndPid
+[2018-01-07 17:54:28] : [错误] GetUsbRecord调用ParseUsbRecord解析usb记录失败
+[2018-01-07 17:54:28] : [信息] 此扇区是6759664

@@ -1,0 +1,8 @@
+[2018-01-17 16:04:44] : [信息] checkType =  1, checkPath = Windows 7 Ultimat, deviceType = C:\Window,  deviceName = ,										  szSN = 00426-292-0000007-8555, szVid = , szPid = , firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:05:10] : [信息] checkType =  1, checkPath = Windows 7 Ultimat, deviceType = C:\Window,  deviceName = ,										  szSN = 00426-292-0000007-8555, szVid = , szPid = , firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:05:37] : [信息] checkType =  1, checkPath = Windows 7 Ultimat, deviceType = C:\Window,  deviceName = ,										  szSN = 00426-292-0000007-8511, szVid = , szPid = , firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:43:50] : [信息] checkType =  1, checkPath = , deviceType = 集线器,  deviceName = usbhu,										  szSN = 6&b77da92&0&2, szVid = VID_0E0F, szPid = PID_0002, firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:43:52] : [信息] checkType =  1, checkPath = , deviceType = 类信息描述,  deviceName = usbccg,										  szSN = 6&b77da92&0&1, szVid = VID_0E0F, szPid = PID_0003, firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:43:53] : [信息] checkType =  1, checkPath = , deviceType = 人体工学设备,  deviceName = HidUs,										  szSN = 7&2a7d3009&0&0000, szVid = VID_0E0F, szPid = PID_0003&MI_00, firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:43:53] : [信息] checkType =  1, checkPath = , deviceType = 人体工学设备,  deviceName = HidUs,										  szSN = 7&2a7d3009&0&0001, szVid = VID_0E0F, szPid = PID_0003&MI_01, firstDate = , lastDate = , szDeduction = 
+[2018-01-17 16:43:53] : [信息] checkType =  1, checkPath = , deviceType = 无线控制器,  deviceName = BTHUS,										  szSN = 000650268328, szVid = VID_0E0F, szPid = PID_0008, firstDate = , lastDate = , szDeduction = 

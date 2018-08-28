@@ -1,0 +1,36 @@
+[2017-12-21 15:31:51] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:
+CompatibleIDs:
+LocationInformation:liteusbbus
+USBFirstFloorKeyCreatime:
+
+[2017-12-21 15:38:22] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:
+CompatibleIDs:
+LocationInformation:liteusbbus
+USBFirstFloorKeyCreatime:
+
+[2017-12-21 15:39:12] : [信息] USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:
+Service:&14a2a4ab&0&0
+CompatibleIDs:
+LocationInformation:
+?
+USBFirstFloorKeyCreatime:
+
+[2017-12-21 15:42:57] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:
+CompatibleIDs:
+LocationInformation:liteusbbus
+USBFirstFloorKeyCreatime:
+
+[2017-12-21 15:59:50] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+

@@ -1,0 +1,469 @@
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@oem0.inf,%dtliteusbbus.devicedesc%;DAEMON Tools Lite Virtual USB Bus
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:öu
+?
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (USB 3.0)
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_0424&PID_2512
+USBSecondFloorKey:5&21d024a&0&9
+Service:USBHUB3
+CompatibleIDs:USB\USB20_HUB
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usbhub3.inf,%usbhub3.usb20hubdesc%;Generic USB Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534
+USBSecondFloorKey:5&21d024a&0&9
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_00
+USBSecondFloorKey:6&21a2a79e&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:öu“´?
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_01
+USBSecondFloorKey:6&21a2a79e&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:0000.0014.0000.009.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_05AC&PID_12A8
+USBSecondFloorKey:d1ce053cf1e93d02db66f8d50ddd14d25a7eb4e0
+Service:WUDFWpdMtp
+CompatibleIDs:USB\Class_06&SubClass_01&Prot_01
+LocationInformation:Port_#0003.Hub_#0001
+DeviceDesc:@wpdmtp.inf,%genericmtp.devicedesc%;MTP USB …Ë±
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_090C&PID_1000
+USBSecondFloorKey:0404160000000010
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0002.Hub_#0002
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_096E&PID_0209
+USBSecondFloorKey:6&3b4be304&0&1
+Service:öuX
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0002
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E
+USBSecondFloorKey:4YU4C16422013429
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0003.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_01
+USBSecondFloorKey:6&2ec610c3&0&0001
+Service:USBSTOR
+CompatibleIDs:›˚{íPúß“´{?
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_02
+USBSecondFloorKey:6&2ec610c3&0&0002
+Service:WINUSB
+CompatibleIDs:USB\Class_ff&SubClass_42&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:@winusb.inf,%usb\ms_comp_adb.devicedesc%;ADB Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_6019
+USBSecondFloorKey:5&21d024a&0&2
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:Port_#0006.Hub_#0001
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D
+USBSecondFloorKey:5&21d024a&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_00
+USBSecondFloorKey:6&6d9d2f5&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_01
+USBSecondFloorKey:6&6d9d2f5&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_1F75&PID_0902
+USBSecondFloorKey:000000000000000108
+Service:USBSTOR
+CompatibleIDs:‹•|íPúßÇt|?
+LocationInformation:Port_#0019.Hub_#0001
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBFirstFloorKey:VID_8087&PID_0A2A
+USBSecondFloorKey:5&21d024a&0&10
+Service:BTHUSB
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0010.Hub_#0001
+DeviceDesc:@oem14.inf,%usb\vid_8087&pid_0a2a_ibt%;Ëã±ÁâπÂ∞?R) Êó†Á∫ø Blueto
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+DeviceDesc:General USB Flash Disk USB Device
+FriendlyName:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+DeviceDesc:Linux File-CD Gadget USB Device
+FriendlyName:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&1
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:General USB Flash Disk USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Innostor&Prod_Innostor&Rev_1.00
+USBSTORSecondFloorKey:000000000000000108&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Innostor Innostor USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Kingston DT 101 G2 USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:13:41] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Linux File-CD Gadget USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:28:34] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:USBHUB3
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (USB 3.0)
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@oem0.inf,%dtliteusbbus.devicedesc%;DAEMON Tools Lite Virtual USB Bus
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:USBHUB3
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (USB 3.0)
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_0424&PID_2512
+USBSecondFloorKey:5&21d024a&0&9
+Service:USBHUB3
+CompatibleIDs:USB\USB20_HUB
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usbhub3.inf,%usbhub3.usb20hubdesc%;Generic USB Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534
+USBSecondFloorKey:5&21d024a&0&9
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_00
+USBSecondFloorKey:6&21a2a79e&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.009.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_046D&PID_C534&MI_01
+USBSecondFloorKey:6&21a2a79e&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:0000.0014.0000.009.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_090C&PID_1000
+USBSecondFloorKey:0404160000000010
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0002.Hub_#0002
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0009.Hub_#0001
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_096E&PID_0209
+USBSecondFloorKey:6&3b4be304&0&1
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0002
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E
+USBSecondFloorKey:4YU4C16422013429
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0003.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_00
+USBSecondFloorKey:6&2ec610c3&0&0000
+Service:WUDFWpdMtp
+CompatibleIDs:öu“´
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:NEM-TL00H
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_01
+USBSecondFloorKey:6&2ec610c3&0&0001
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_02
+USBSecondFloorKey:6&2ec610c3&0&0002
+Service:WINUSB
+CompatibleIDs:USB\Class_ff&SubClass_42&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:@winusb.inf,%usb\ms_comp_adb.devicedesc%;ADB Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_12D1&PID_107E&MI_03
+USBSecondFloorKey:6&2ec610c3&0&0003
+Service:
+CompatibleIDs:USB\Class_ff&SubClass_48&Prot_01
+LocationInformation:0000.0014.0000.003.000.000.000.000.000
+DeviceDesc:NEM-TL00H
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_6019
+USBSecondFloorKey:5&21d024a&0&2
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:Port_#0006.Hub_#0001
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D
+USBSecondFloorKey:5&21d024a&0&1
+Service:usbccgp
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:@usb.inf,%usb\composite.devicedesc%;USB Composite Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_00
+USBSecondFloorKey:6&6d9d2f5&0&0000
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_17EF&PID_602D&MI_01
+USBSecondFloorKey:6&6d9d2f5&0&0001
+Service:HidUsb
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:0000.0014.0000.001.000.000.000.000.000
+DeviceDesc:@input.inf,%hid.devicedesc%;USB Input Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_1F75&PID_0902
+USBSecondFloorKey:000000000000000108
+Service:USBSTOR
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0019.Hub_#0001
+DeviceDesc:@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBFirstFloorKey:VID_8087&PID_0A2A
+USBSecondFloorKey:5&21d024a&0&10
+Service:BTHUSB
+CompatibleIDs:USB\Class_E0&SubClass_01&Prot_01
+LocationInformation:Port_#0010.Hub_#0001
+DeviceDesc:@oem14.inf,%usb\vid_8087&pid_0a2a_ibt%;Ëã±ÁâπÂ∞?R) Êó†Á∫ø Blueto
+USBFirstFloorKeyCreatime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&0
+Service:öuX
+CompatibleIDs:USBSTOR\CdRom
+DeviceDesc:General USB Flash Disk USB Device
+FriendlyName:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:CdRom&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:cdrom
+CompatibleIDs:USBSTOR\CdRom
+DeviceDesc:Linux File-CD Gadget USB Device
+FriendlyName:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_General&Prod_USB_Flash_Disk&Rev_1100
+USBSTORSecondFloorKey:0404160000000010&1
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:General USB Flash Disk USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Innostor&Prod_Innostor&Rev_1.00
+USBSTORSecondFloorKey:000000000000000108&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Innostor Innostor USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00
+USBSTORSecondFloorKey:001CC05FE92EFCA1191924AF&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Kingston DT 101 G2 USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+
+[2017-12-22 14:31:03] : [–≈œ¢] 
+USBSTORFirstFloorKey:Disk&Ven_Linux&Prod_File-CD_Gadget&Rev_0310
+USBSTORSecondFloorKey:7&33ff07c7&0&4YU4C16422013429&0
+Service:disk
+CompatibleIDs:USBSTOR\Disk
+DeviceDesc:Linux File-CD Gadget USB Device
+FriendlyName:@disk.inf,%disk_devdesc%;Disk drive
+USBSTORFirstFloorKeyCreateTime:
+

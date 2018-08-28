@@ -1,0 +1,502 @@
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:VEN_10EC&DEV_8136&SUBSYS_1668103C&REV_05;
+VK:rt640x64.inf;
+VKDATA:Ъ
+[2017-11-21 15:30:19] : [пео╒] usbdata = VK:Provider;
+VKDATA:╟ЪЪЪQ
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:Descriptors;
+NK:USB;
+NK:CLASS_01;
+NK:Strings;
+VK:msft;
+VKDATA:пЪЪЪM
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:ZYX53F3;
+VK:Configuration;
+VKDATA:ПЪЪЪU
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:Modem1.NT;
+VK:DriverVersion;
+VKDATA:ПЪЪЪ
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:Modem2a;
+VK:DriverVersion;
+VKDATA:ПЪЪЪ
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:ELS0363;
+VK:Configuration;
+VKDATA:ЬЪЪЪx
+
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:EIGER_LABS_INC.-EFX-2880P_FAX/MODEM-F39C;
+VK:Configuration;
+VKDATA:═ЪЪЪnk 
+[2017-11-21 15:30:19] : [пео╒] usbdata = NK:PCMCIA;
+NK:COMPAQ-MICROCOM_420_56K_PC_CARD_MODEM-DC0A;
+VK:Configuration;
+VKDATA:ЬЪЪЪЬP
+
+[2017-11-21 15:30:20] : [пео╒] usbdata = VK:Version;
+VKDATA:хЪЪЪЪЪ	
+[2017-11-21 15:30:30] : [пео╒] usbdata = NK:Device Parameters;
+VK:RootBus;
+VKDATA:
+[2017-11-21 15:30:30] : [пео╒] usbdata = NK:0003;
+NK:0005;
+VK:;
+VKDATA:ХЪЪЪu
+[2017-11-21 15:30:30] : [пео╒] usbdata = NK:0006;
+NK:USBSTOR;
+NK:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100;
+NK:0404160000000010&0;
+VK:DeviceDesc;
+VKDATA:═ЪЪЪ@
+[2017-11-21 15:30:30] : [пео╒] usbdata = VK:ImagePath;
+VKDATA:╗ЪЪЪ\
+[2017-11-21 15:30:30] : [пео╒] usbdata = NK:TS_URB_HUB;
+VK:tsusbhub.inf;
+VKDATA:Ъ
+[2017-11-21 15:30:31] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ХЪЪЪ%
+[2017-11-21 15:30:31] : [пео╒] usbdata = NK:Composite.Dev.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:30:31] : [пео╒] usbdata = NK:Strings;
+VK:usbhub3.roothubdevicedesc;
+VKDATA:хЪЪЪU
+[2017-11-21 15:30:31] : [пео╒] usbdata = VK:SignerScore;
+VKDATA:
+[2017-11-21 15:30:31] : [пео╒] usbdata = VK:KeyLength;
+VKDATA:
+[2017-11-21 15:30:31] : [пео╒] usbdata = NK:Properties;
+NK:{026e516e-b814-414b-83cd-856d6fef4822};
+NK:0002;
+VK:;
+VKDATA:пЪЪЪT
+[2017-11-21 15:30:31] : [пео╒] usbdata = NK:Instance;
+NK:USB;
+NK:ROOT_HUB30;
+NK:4&14a2a4ab&0&0;
+VK:Capabilities;
+VKDATA:─
+[2017-11-21 15:30:32] : [пео╒] usbdata = VK:HardwareIds;
+VKDATA:░ЪЪЪU
+[2017-11-21 15:30:32] : [пео╒] usbdata = VK:EnumeratorFlag;
+VKDATA:
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:Driver;
+VK:DeviceType;
+VKDATA:
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:VID_55AA&PID_B207&MI_00;
+VK:Configuration;
+VKDATA:ьЪЪЪU
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:Strings;
+VK:msft;
+VKDATA:ХЪЪЪM
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:VEN_8086&DEV_8807;
+VK:Manufacturer;
+VKDATA:ЮЪЪЪ%
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:Properties;
+NK:{a45c254e-df1c-4efd-8020-67d146a850e0};
+NK:0019;
+VK:;
+VKDATA:хЪЪЪ
+[2017-11-21 15:30:32] : [пео╒] usbdata = NK:Strings;
+VK:ufxchipidea.mfg;
+VKDATA:хЪЪЪU
+[2017-11-21 15:30:32] : [пео╒] usbdata = VK:generic.devicedesc;
+VKDATA:═ЪЪЪU
+[2017-11-21 15:30:33] : [пео╒] usbdata = NK:TRANSFERCABLE.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:30:33] : [пео╒] usbdata = NK:USB;
+NK:Vid_03f0&Pid_0011;
+VK:Configuration;
+VKDATA:ПЪЪЪЮн
+[2017-11-21 15:30:33] : [пео╒] usbdata = VK:Service;
+VKDATA:ХЪЪЪn
+[2017-11-21 15:30:33] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:30:33] : [пео╒] usbdata = NK:LSI_Logic&SYM13FW500-DISK_DRIVE&CmdSetId104d8&GenDisk;
+VK:Description;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:31:33] : [пео╒] usbdata = NK:USBSTOR;
+VK:ImagePath;
+VKDATA:╗ЪЪЪ\
+[2017-11-21 15:39:24] : [пео╒] usbdata = NK:{FB3842CD-9E2A-4F83-8FCC-4B0761139AE9};
+NK:Sensors.Custom;
+NK:{E83AF229-8640-4D18-A213-E22675EBB2C3};
+NK:SerialCommunication;
+NK:{86E0D1E0-8089-11D0-9CE4-08003E301F73};
+NK:Sms;
+NK:{21157C1F-2651-4CC1-90CA-1F28B02263F6};
+NK:USB;
+NK:{DEE824EF-729B-4A0E-9C14-B7117D33A817};
+NK:UserAccountInformation;
+NK:{C1D23ACC-752B-43E5-8448-8D0E519CD6D6};
+NK:UserDataTasks;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserDataTasksSystem;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserNotificationListener;
+NK:{52079E78-A92B-413F-B213-E8FE35712E72};
+NK:bluetooth.genericAttributeProfile;
+VK:;
+VKDATA:╗ЪЪЪ{
+[2017-11-21 15:39:24] : [пео╒] usbdata = NK:/SLS/{E7A50285-D08D-499D-9FF8-180FDC2332BC}/x64/10.0.15063.0/0?CH=908&L=zh-CN&P=&PT=0x30&WUA=10.0.15063.502&MK=LENOVO&MD=90D9005NCD;
+VK:LastModified;
+VKDATA:пЪЪЪ2
+[2017-11-21 15:39:28] : [пео╒] usbdata = NK:USB#VID_04F9&PID_0130&MI_02;
+VK:LowerFilters;
+VKDATA:ХЪЪЪB
+[2017-11-21 15:39:29] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:39:29] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:39:30] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:Device Parameters;
+VK:RootBus;
+VKDATA:
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:0003;
+NK:0005;
+VK:;
+VKDATA:ХЪЪЪu
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:0006;
+NK:USBSTOR;
+NK:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100;
+NK:0404160000000010&0;
+VK:DeviceDesc;
+VKDATA:═ЪЪЪ@
+[2017-11-21 15:39:37] : [пео╒] usbdata = VK:ImagePath;
+VKDATA:╗ЪЪЪ\
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:TS_URB_HUB;
+VK:tsusbhub.inf;
+VKDATA:Ъ
+[2017-11-21 15:39:37] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ХЪЪЪ%
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:Composite.Dev.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:39:37] : [пео╒] usbdata = NK:Strings;
+VK:usbhub3.roothubdevicedesc;
+VKDATA:хЪЪЪU
+[2017-11-21 15:39:37] : [пео╒] usbdata = VK:SignerScore;
+VKDATA:
+[2017-11-21 15:39:38] : [пео╒] usbdata = VK:KeyLength;
+VKDATA:
+[2017-11-21 15:39:38] : [пео╒] usbdata = NK:Properties;
+NK:{026e516e-b814-414b-83cd-856d6fef4822};
+NK:0002;
+VK:;
+VKDATA:пЪЪЪT
+[2017-11-21 15:39:38] : [пео╒] usbdata = NK:Instance;
+NK:USB;
+NK:ROOT_HUB30;
+NK:4&14a2a4ab&0&0;
+VK:Capabilities;
+VKDATA:─
+[2017-11-21 15:39:38] : [пео╒] usbdata = VK:HardwareIds;
+VKDATA:░ЪЪЪU
+[2017-11-21 15:39:38] : [пео╒] usbdata = VK:EnumeratorFlag;
+VKDATA:
+[2017-11-21 15:39:38] : [пео╒] usbdata = NK:Driver;
+VK:DeviceType;
+VKDATA:
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:VID_55AA&PID_B207&MI_00;
+VK:Configuration;
+VKDATA:ьЪЪЪU
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:Strings;
+VK:msft;
+VKDATA:ХЪЪЪM
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:VEN_8086&DEV_8807;
+VK:Manufacturer;
+VKDATA:ЮЪЪЪ%
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:Properties;
+NK:{a45c254e-df1c-4efd-8020-67d146a850e0};
+NK:0019;
+VK:;
+VKDATA:хЪЪЪ
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:Strings;
+VK:ufxchipidea.mfg;
+VKDATA:хЪЪЪU
+[2017-11-21 15:39:39] : [пео╒] usbdata = VK:generic.devicedesc;
+VKDATA:═ЪЪЪU
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:TRANSFERCABLE.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:39:39] : [пео╒] usbdata = NK:USB;
+NK:Vid_03f0&Pid_0011;
+VK:Configuration;
+VKDATA:ПЪЪЪЮн
+[2017-11-21 15:39:39] : [пео╒] usbdata = VK:Service;
+VKDATA:ХЪЪЪn
+[2017-11-21 15:39:40] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:39:40] : [пео╒] usbdata = NK:LSI_Logic&SYM13FW500-DISK_DRIVE&CmdSetId104d8&GenDisk;
+VK:Description;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:39:47] : [пео╒] usbdata = NK:{FB3842CD-9E2A-4F83-8FCC-4B0761139AE9};
+NK:Sensors.Custom;
+NK:{E83AF229-8640-4D18-A213-E22675EBB2C3};
+NK:SerialCommunication;
+NK:{86E0D1E0-8089-11D0-9CE4-08003E301F73};
+NK:Sms;
+NK:{21157C1F-2651-4CC1-90CA-1F28B02263F6};
+NK:USB;
+NK:{DEE824EF-729B-4A0E-9C14-B7117D33A817};
+NK:UserAccountInformation;
+NK:{C1D23ACC-752B-43E5-8448-8D0E519CD6D6};
+NK:UserDataTasks;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserDataTasksSystem;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserNotificationListener;
+NK:{52079E78-A92B-413F-B213-E8FE35712E72};
+NK:bluetooth.genericAttributeProfile;
+VK:;
+VKDATA:╗ЪЪЪ{
+[2017-11-21 15:39:47] : [пео╒] usbdata = NK:/SLS/{E7A50285-D08D-499D-9FF8-180FDC2332BC}/x64/10.0.15063.0/0?CH=908&L=zh-CN&P=&PT=0x30&WUA=10.0.15063.502&MK=LENOVO&MD=90D9005NCD;
+VK:LastModified;
+VKDATA:пЪЪЪ2
+[2017-11-21 15:40:47] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:40:47] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:40:47] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:40:48] : [пео╒] usbdata = NK:USB#VID_04F9&PID_0130&MI_02;
+VK:LowerFilters;
+VKDATA:ХЪЪЪB
+[2017-11-21 15:40:52] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:41:04] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:41:21] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:41:22] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:41:22] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:41:58] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:42:10] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:42:26] : [пео╒] usbdata = NK:USB#VID_04F9&PID_0130&MI_02;
+VK:LowerFilters;
+VKDATA:ХЪЪЪB
+[2017-11-21 15:42:27] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:42:27] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+NK:00000003;
+NK:00000000;
+VK:ImagePath;
+VKDATA:
+[2017-11-21 15:42:27] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:42:30] : [пео╒] usbdata = NK:%5C%5C.%5CRpc%5CUnistoreServiceOneCore%5CServer;
+NK:%5C%5C.%5CRpc%5CUserDataServiceOneCore%5CInterface;
+NK:%5C%5C.%5CRpc%5CUserDataServiceOneCore%5CServer;
+VK:SecurityDescriptor;
+VKDATA:ЬЧЪЪ
+[2017-11-21 15:42:33] : [пео╒] usbdata = NK:{772E18F2-8925-4229-A5AC-6453CB482FDA};
+NK:{C243FFBD-3AFC-45E9-B3D3-2BA18BC7EBC5};
+NK:{C7BC9B22-21F0-4F0D-9BB6-66C229B8CD33};
+NK:PreemptiveCamera;
+NK:{00EEBD44-EB0F-4A94-A2D4-D5C4ED5FA66D};
+NK:Proximity;
+NK:{439B20AF-8955-405B-99F0-A62AF0C68D43};
+NK:{50DD5230-BA8A-11D1-BF5D-0000F805F530};
+NK:{FB3842CD-9E2A-4F83-8FCC-4B0761139AE9};
+NK:Sensors.Custom;
+NK:{E83AF229-8640-4D18-A213-E22675EBB2C3};
+NK:SerialCommunication;
+NK:{86E0D1E0-8089-11D0-9CE4-08003E301F73};
+NK:Sms;
+NK:{21157C1F-2651-4CC1-90CA-1F28B02263F6};
+NK:USB;
+NK:{DEE824EF-729B-4A0E-9C14-B7117D33A817};
+NK:UserDataTasks;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserDataTasksSystem;
+NK:{E390DF20-07DF-446D-B962-F5C953062741};
+NK:UserNotificationListener;
+NK:{52079E78-A92B-413F-B213-E8FE35712E72};
+NK:bluetooth.genericAttributeProfile;
+VK:;
+VKDATA:╗ЪЪЪ{
+[2017-11-21 15:42:35] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:42:36] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:42:37] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:42:50] : [пео╒] usbdata = NK:USB#VID_04F9&PID_0130&MI_02;
+VK:LowerFilters;
+VKDATA:ХЪЪЪB
+[2017-11-21 15:43:00] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:43:02] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:43:15] : [пео╒] usbdata = NK:Device Parameters;
+VK:RootBus;
+VKDATA:
+[2017-11-21 15:43:15] : [пео╒] usbdata = NK:0003;
+NK:0005;
+VK:;
+VKDATA:ХЪЪЪu
+[2017-11-21 15:43:15] : [пео╒] usbdata = NK:0006;
+NK:USBSTOR;
+NK:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100;
+NK:0404160000000010&0;
+VK:DeviceDesc;
+VKDATA:═ЪЪЪ@
+[2017-11-21 15:43:16] : [пео╒] usbdata = VK:ImagePath;
+VKDATA:╗ЪЪЪ\
+[2017-11-21 15:43:16] : [пео╒] usbdata = NK:TS_URB_HUB;
+VK:tsusbhub.inf;
+VKDATA:Ъ
+[2017-11-21 15:43:16] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ХЪЪЪ%
+[2017-11-21 15:43:16] : [пео╒] usbdata = NK:Composite.Dev.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:43:16] : [пео╒] usbdata = NK:Strings;
+VK:usbhub3.roothubdevicedesc;
+VKDATA:хЪЪЪU
+[2017-11-21 15:43:16] : [пео╒] usbdata = VK:SignerScore;
+VKDATA:
+[2017-11-21 15:43:16] : [пео╒] usbdata = VK:KeyLength;
+VKDATA:
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:Properties;
+NK:{026e516e-b814-414b-83cd-856d6fef4822};
+NK:0002;
+VK:;
+VKDATA:пЪЪЪT
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:Instance;
+NK:USB;
+NK:ROOT_HUB30;
+NK:4&14a2a4ab&0&0;
+VK:Capabilities;
+VKDATA:─
+[2017-11-21 15:43:17] : [пео╒] usbdata = VK:HardwareIds;
+VKDATA:░ЪЪЪU
+[2017-11-21 15:43:17] : [пео╒] usbdata = VK:EnumeratorFlag;
+VKDATA:
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:Driver;
+VK:DeviceType;
+VKDATA:
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:VID_55AA&PID_B207&MI_00;
+VK:Configuration;
+VKDATA:ьЪЪЪU
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:Strings;
+VK:msft;
+VKDATA:ХЪЪЪM
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:VEN_8086&DEV_8807;
+VK:Manufacturer;
+VKDATA:ЮЪЪЪ%
+[2017-11-21 15:43:17] : [пео╒] usbdata = NK:Properties;
+NK:{a45c254e-df1c-4efd-8020-67d146a850e0};
+NK:0019;
+VK:;
+VKDATA:хЪЪЪ
+[2017-11-21 15:43:18] : [пео╒] usbdata = NK:Strings;
+VK:ufxchipidea.mfg;
+VKDATA:хЪЪЪU
+[2017-11-21 15:43:18] : [пео╒] usbdata = VK:generic.devicedesc;
+VKDATA:═ЪЪЪU
+[2017-11-21 15:43:18] : [пео╒] usbdata = NK:TRANSFERCABLE.NT;
+VK:ConfigScope;
+VKDATA:
+[2017-11-21 15:43:18] : [пео╒] usbdata = NK:USB;
+NK:Vid_03f0&Pid_0011;
+VK:Configuration;
+VKDATA:ПЪЪЪЮн
+[2017-11-21 15:43:18] : [пео╒] usbdata = VK:Service;
+VKDATA:ХЪЪЪn
+[2017-11-21 15:43:18] : [пео╒] usbdata = VK:Manufacturer;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:43:18] : [пео╒] usbdata = NK:LSI_Logic&SYM13FW500-DISK_DRIVE&CmdSetId104d8&GenDisk;
+VK:Description;
+VKDATA:ьЪЪЪ%
+[2017-11-21 15:43:26] : [пео╒] usbdata = NK:usbprint;
+VK:Start;
+VKDATA:
+[2017-11-21 15:43:34] : [пео╒] usbdata = NK:00b4;
+NK:Kernel;
+VK:IfType;
+VKDATA:┐
+[2017-11-21 15:43:40] : [пео╒] usbdata = NK:Semgr;
+NK:Sensors;
+NK:Settings;
+NK:FindMyDevice;
+NK:Shared Tools;
+VK:SharedFilesDir;
+VKDATA:≤ЪЪЪC
+[2017-11-21 15:43:41] : [пео╒] usbdata = NK:{a8b865dd-2e3d-4094-ad97-e593a70c75d6};
+NK:0002;
+VK:;
+VKDATA:ПЪЪЪ
+[2017-11-21 15:43:41] : [пео╒] usbdata = NK:{a8b865dd-2e3d-4094-ad97-e593a70c75d6};
+NK:0002;
+VK:;
+VKDATA:ПЪЪЪ
+[2017-11-21 15:43:44] : [пео╒] usbdata = VK:;
+VKDATA:ХЪЪЪM
+[2017-11-21 15:43:51] : [пео╒] usbdata = NK:0064;
+NK:0065;
+VK:;
+VKDATA:ПЪЪЪю≈└К÷	с;
+NK:0066;
+VK:;
+VKDATA:ПЪЪЪ;╢{wс;
+NK:{a45c254e-df1c-4efd-8020-67d146a850e0};
+NK:0025;
+VK:;
+VKDATA:╗ЪЪЪU
+[2017-11-21 15:44:11] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:44:11] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:44:11] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:44:16] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+VK:Data;
+VKDATA:ьЪЪЪ6
+[2017-11-21 15:44:20] : [пео╒] usbdata = NK:%5C%5C.%5CRpc%5CUnistoreServiceOneCore%5CServer;
+NK:%5C%5C.%5CRpc%5CUserDataServiceOneCore%5CInterface;
+NK:%5C%5C.%5CRpc%5CUserDataServiceOneCore%5CServer;
+VK:SecurityDescriptor;
+VKDATA:ЬЧЪЪ
+[2017-11-21 15:44:48] : [пео╒] usbdata = NK:USB#VID_04F9&PID_0130&MI_02;
+VK:LowerFilters;
+VKDATA:ХЪЪЪB
+[2017-11-21 15:44:49] : [пео╒] usbdata = VK:NextParentID.24693ec3.4;
+VKDATA:
+[2017-11-21 15:44:49] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+NK:00000003;
+NK:00000000;
+VK:DriverPackageId;
+VKDATA:юЪЪЪS
+[2017-11-21 15:44:49] : [пео╒] usbdata = NK:00000002;
+NK:00000000;
+NK:00000003;
+NK:00000000;
+VK:DriverPackageId;
+VKDATA:юЪЪЪS
+[2017-11-21 15:44:49] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS
+[2017-11-21 15:44:49] : [пео╒] usbdata = VK:Group;
+VKDATA:ЮЪЪЪS

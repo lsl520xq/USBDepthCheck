@@ -1,0 +1,21 @@
+[2017-12-14 15:32:22] : [–≈œ¢] usbdata = NK:0006;
+NK:USBSTOR;
+NK:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100;
+NK:0404160000000010&0;
+VK:DeviceDesc;
+VKDATA:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+[2017-12-14 15:42:22] : [–≈œ¢] usbdata = NK:0006;
+NK:USBSTOR;
+NK:CdRom&Ven_General&Prod_USB_Flash_Disk&Rev_1100;
+NK:0404160000000010&0;
+VK:DeviceDesc;
+VKDATA:@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive
+[2017-12-14 15:43:22] : [–≈œ¢] usbdata = VK:ImagePath;
+VKDATA:\SystemRoot\System32\drivers\usbehci.sys
+[2017-12-14 15:43:33] : [–≈œ¢] usbdata = NK:TS_URB_HUB;
+VK:tsusbhub.inf;
+VKDATA:ˇ
+[2017-12-14 15:43:57] : [–≈œ¢] usbdata = VK:LastPresentDate;
+VKDATA:öm ?;
+VK:DefaultRequestFlags;
+VKDATA:

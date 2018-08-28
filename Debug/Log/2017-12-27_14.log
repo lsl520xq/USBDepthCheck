@@ -1,0 +1,6 @@
+[2017-12-27 14:36:04] : [´íÎó] GetUsbDepthData:CreateFile:Ê§°Ü!,										   ´íÎó·µ»ØÂë: dwError = 2
+[2017-12-27 14:38:04] : [´íÎó] GetUsbDepthData:CreateFile:Ê§°Ü!,										   ´íÎó·µ»ØÂë: dwError = 2
+[2017-12-27 14:47:46] : [´íÎó] GetUsbDepthData:CreateFile:Ê§°Ü!,										   ´íÎó·µ»ØÂë: dwError = 2
+[2017-12-27 14:48:14] : [´íÎó] GetUsbDepthData:CreateFile:Ê§°Ü!,										   ´íÎó·µ»ØÂë: dwError = 3
+[2017-12-27 14:48:14] : [´íÎó] USBDepthCheck GetUsbDepthData»ñÈ¡USBÊý¾ÝÊ§°Ü
+[2017-12-27 14:54:45] : [´íÎó] GetUsbDepthData:DeviceIoControl:Ê§°Ü!,										   ´íÎó·µ»ØÂë: dwError = 87

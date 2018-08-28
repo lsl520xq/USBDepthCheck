@@ -1,0 +1,98 @@
+[2017-12-29 16:02:05] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbus
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:28:38] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbu
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:29:38] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbu
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:30:54] : [信息] USBFirstFloorKey:0000
+USBSecondFloorKey:
+Service:dtliteusbbu
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:30:58] : [信息] USBFirstFloorKey:ROOT_HUB30
+USBSecondFloorKey:4&14a2a4ab&0&0
+Service:USBHUB
+CompatibleIDs:
+LocationInformation:
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:01] : [信息] USBFirstFloorKey:VID_0424&PID_2512
+USBSecondFloorKey:5&21d024a&0&3
+Service:USBHUB
+CompatibleIDs:USB\USB20_HUB
+LocationInformation:Port_#0009.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:04] : [信息] USBFirstFloorKey:VID_046D&PID_C534
+USBSecondFloorKey:5&21d024a&0&9
+Service:usbccg
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0009.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:07] : [信息] USBFirstFloorKey:VID_046D&PID_C534&MI_00
+USBSecondFloorKey:6&21a2a79e&0&0000
+Service:HidUs
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_01
+LocationInformation:0000.0014.0000.009.000.000.000.000.00
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:11] : [信息] USBFirstFloorKey:VID_046D&PID_C534&MI_01
+USBSecondFloorKey:6&21a2a79e&0&0001
+Service:HidUs
+CompatibleIDs:USB\Class_03&SubClass_01&Prot_02
+LocationInformation:0000.0014.0000.009.000.000.000.000.00
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:19] : [信息] USBFirstFloorKey:VID_05AC&PID_12A8
+USBSecondFloorKey:d1ce053cf1e93d02db66f8d50ddd14d25a7eb4e0
+Service:WUDFWpdMt
+CompatibleIDs:USB\Class_06&SubClass_01&Prot_01
+LocationInformation:Port_#0003.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:23] : [信息] USBFirstFloorKey:VID_090C&PID_1000
+USBSecondFloorKey:0404160000000010
+Service:USBSTO
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0002.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:25] : [信息] USBFirstFloorKey:VID_0951&PID_1642
+USBSecondFloorKey:001CC05FE92EFCA1191924AF
+Service:USBSTO
+CompatibleIDs:USB\Class_08&SubClass_06&Prot_50
+LocationInformation:Port_#0009.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:27] : [信息] USBFirstFloorKey:VID_096E&PID_0209
+USBSecondFloorKey:6&18bf2f17&0&1
+Service:HidUs
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#000
+USBFirstFloorKeyCreatime:
+
+[2017-12-29 16:31:29] : [信息] USBFirstFloorKey:VID_12D1&PID_107E
+USBSecondFloorKey:4YU4C16422013429
+Service:usbccg
+CompatibleIDs:USB\DevClass_00&SubClass_00&Prot_00
+LocationInformation:Port_#0003.Hub_#000
+USBFirstFloorKeyCreatime:
+

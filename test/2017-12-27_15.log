@@ -1,0 +1,72 @@
+[2017-12-27 15:02:51] : [信息] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:4&24d6eb65&0
+Service:歮 綐
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:02:51] : [信息] 
+USBFirstFloorKey:VID_80EE&PID_0021
+USBSecondFloorKey:5&18f54cb7&0&1
+Service:桬?3満
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:??夋ǔ夋ǔ???0?0
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:02:56] : [信息] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:4&24d6eb65&0
+Service:?l?
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:歮 ??夐ǔ
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:02:56] : [信息] 
+USBFirstFloorKey:VID_80EE&PID_0021
+USBSecondFloorKey:5&18f54cb7&0&1
+Service:桬?k溃
+CompatibleIDs:
+LocationInformation:PNP_TDI
+DeviceDesc:
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:20:11] : [信息] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:4&24d6eb65&0
+Service:歮 綐
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:20:11] : [信息] 
+USBFirstFloorKey:VID_80EE&PID_0021
+USBSecondFloorKey:5&18f54cb7&0&1
+Service:桬?3満
+CompatibleIDs:USB\Class_03&SubClass_00&Prot_00
+LocationInformation:Port_#0001.Hub_#0001
+DeviceDesc:??夋ǔ夋ǔ???0?0
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:20:19] : [信息] 
+USBFirstFloorKey:ROOT_HUB
+USBSecondFloorKey:4&24d6eb65&0
+Service:?l?
+CompatibleIDs:
+LocationInformation:
+DeviceDesc:歮 ??夐ǔ
+USBFirstFloorKeyCreatime:
+
+[2017-12-27 15:20:19] : [信息] 
+USBFirstFloorKey:VID_80EE&PID_0021
+USBSecondFloorKey:5&18f54cb7&0&1
+Service:桬?k溃
+CompatibleIDs:
+LocationInformation:PNP_TDI
+DeviceDesc:
+USBFirstFloorKeyCreatime:
+

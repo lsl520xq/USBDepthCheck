@@ -1,0 +1,30 @@
+[2018-01-08 12:02:01] : [信息] 此扇区是239570152
+[2018-01-08 12:02:20] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-08 12:02:20] : [信息] 此扇区是239570472
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [错误] GetVkListAddr:(vkNumber > 0xffff)失败!
+[2018-01-08 12:02:20] : [错误] GetVkDataInfo:GetVkListAddr失败!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [错误] GetVkListAddr:(vkNumber > 0xffff)失败!
+[2018-01-08 12:02:20] : [错误] GetVkDataInfo:GetVkListAddr失败!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [错误] GetVkDataInfo :(80 + NameSize) > SECTOR_SIZE失败!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:20] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
+[2018-01-08 12:02:26] : [信息] 此扇区是239570544
+[2018-01-08 12:02:26] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [信息] GetVkDataInfo:NK标志错误!
+[2018-01-08 12:02:26] : [错误] ParseUsbRecord 传入的USBFirstFloorKey参数不是USB记录
